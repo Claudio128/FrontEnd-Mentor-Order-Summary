@@ -1,0 +1,14 @@
+body{
+    font-size: 16px;    
+    background-image: url(../images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+    font-family: 'Red Hat Display';
+}
+
+main{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

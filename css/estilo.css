@@ -1,0 +1,89 @@
+.cartao{
+    background-color: #FFFFFF;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+
+.imagem img{
+    max-width: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.texto{
+    text-align: center;
+    margin: 30px 0px 10px;
+}
+
+.texto h1{
+    font-size: 28px;
+}
+
+.texto p{
+    padding: 10px 20px;
+    color: hsl(224, 23%, 55%);
+}
+
+.plano{
+    background-color: hsl(225, 100%, 98%);
+    padding: 15px 0px;
+    margin: 0px 35px 30px;
+    border-radius: 10px;
+}
+
+.plano_musica{
+    margin-right: 15px;
+}
+
+.caixa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.plano h2{
+    font-size: 17px;
+    margin-right: 70px;
+}
+
+.plano p{
+    font-size: 16px;
+    color: hsl(224, 23%, 55%);
+}
+
+.caixa a{
+    color: hsl(245, 75%, 52%);
+}
+
+.botao1{
+    width: 75%;
+    background-color: hsl(245, 75%, 52%);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 6vh;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.botao1 a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Red Hat Display';
+}
+
+.botao2{
+    width: 75%;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    margin-left: 6vh;
+}
+
+.botao2 a{
+    color: hsl(224, 23%, 55%);
+    text-decoration: none;
+    font-family: 'Red Hat Display';
+}
